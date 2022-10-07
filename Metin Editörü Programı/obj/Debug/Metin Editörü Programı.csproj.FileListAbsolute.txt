@@ -1,0 +1,12 @@
+C:\Users\erayy\source\repos\Metin Editörü Programı\bin\Debug\Metin Editörü Programı.exe.config
+C:\Users\erayy\source\repos\Metin Editörü Programı\bin\Debug\Metin Editörü Programı.exe
+C:\Users\erayy\source\repos\Metin Editörü Programı\bin\Debug\Metin Editörü Programı.pdb
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin Editörü Programı.csproj.AssemblyReference.cache
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin Editörü Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin_Editörü_Programı.Form1.resources
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin_Editörü_Programı.Properties.Resources.resources
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin Editörü Programı.csproj.GenerateResource.cache
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin Editörü Programı.csproj.CoreCompileInputs.cache
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin Editörü Programı.exe
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin Editörü Programı.pdb
+C:\Users\erayy\source\repos\Metin Editörü Programı\obj\Debug\Metin_Editörü_Programı.Form2.resources
